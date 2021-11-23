@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html>
+    <head>
+        <title>Seja Bem vindo</title
+        <meta charset = "utf-8">
+    
+    </head
+
+    <body>
+        <p>Criando em html</p>
+    
+    </body
+
+
+
+</html
